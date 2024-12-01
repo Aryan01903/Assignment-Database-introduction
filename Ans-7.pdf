@@ -1,0 +1,20 @@
+Three-Schema Architecture
+Internal Schema:
+
+- Describes physical storage (e.g., file structures, indexing).
+- Advantage: Hides physical details, optimizing performance.
+Conceptual Schema:
+- Centralized view of the entire database structure.
+- Advantage: Abstracts storage specifics, ensuring data integrity and independence.
+External Schema:
+- User-specific views of the data (e.g., reports, UI interfaces).
+- Advantage: Provides customization for different user needs.
+Advantages of Three-Schema Architecture:
+- Ensures data abstraction and independence.
+- Separates user views from physical storage.
+- Simplifies database design and maintenance.
+
+
+
+
+

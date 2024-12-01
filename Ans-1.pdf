@@ -1,0 +1,7 @@
+Database :- A database is an organized way to store and manage data using software called a DBMS. It makes data easy to access, update, and retrieve.
+need of database :- Without a database, managing large or connected data (like in spreadsheets) can cause duplication, errors, and inefficiency.
+Example:
+In a school system:
+- Without a Database: Student info across multiple files can become inconsistent and hard to query.
+- With a Database: All data (students, courses, etc.) is stored in tables, linked for consistency. Updates and queries are faster and more reliable.
+Databases ensure efficiency, accuracy, and simplicity.

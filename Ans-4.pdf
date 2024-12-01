@@ -1,0 +1,12 @@
+Challenges of File-Based Storage Tackled by DBMS:- 
+- Data Redundancy:
+DBMS eliminates duplication by centralizing data storage.
+- Data Inconsistency:
+Ensures data updates are consistent across the system through constraints and relationships.
+- Data Retrieval:
+DBMS provides query languages like SQL for efficient data retrieval.
+- Concurrent Access:
+Manages simultaneous access by multiple users with transaction control mechanisms.
+- Data Security:
+Offers robust security features like user authentication and role-based access.
+

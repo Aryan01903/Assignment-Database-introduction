@@ -1,0 +1,7 @@
+Significance of Data Modeling
+Data Modeling defines the structure, relationships, and constraints of data in a database, ensuring a clear blueprint for database design.
+
+Types of Data Models:
+- Conceptual Data Model: High-level, abstract design focusing on entities and relationships (e.g., ER diagrams).
+- Logical Data Model: More detailed, including attributes, keys, and constraints, independent of the DBMS.
+- Physical Data Model: Specifies storage details like indexing and file structures, tied to the DBMS implementation.

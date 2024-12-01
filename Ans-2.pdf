@@ -1,0 +1,21 @@
+A file-based storage system uses files and folders to store, organize, and manage data on storage devices. Each application manages its own set of files, leading to independent data handling.
+
+Major Challenges:
+- Data Redundancy:
+Multiple files may store the same data, wasting storage and causing inconsistency during updates.
+- Data Inconsistency:
+Changes in one file may not reflect in others, leading to mismatched or outdated data.
+- Limited Querying:
+Retrieving specific information requires manual searching, making it inefficient for large data sets.
+- Poor Security:
+Files lack centralized control, making sensitive data more vulnerable.
+- Scalability Issues:
+Managing large volumes of files becomes chaotic and error-prone.
+
+File-based systems are simple but unsuitable for handling complex or interconnected data.
+
+
+
+
+
+
